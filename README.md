@@ -1,2 +1,10 @@
-# Monitor_operacional
-Dashboard operacional em Streamlit para monitoramento de vendas e atendimento Operacional.
+# Dashboard Operacional SECAD
+
+Dashboard desenvolvido em Streamlit para acompanhamento operacional de vendas e atendimento.
+
+## Tecnologias
+- Python
+- Streamlit
+- Plotly
+- PostgreSQL
+- Pandas
