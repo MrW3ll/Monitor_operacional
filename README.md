@@ -75,6 +75,7 @@ PostgreSQL
 Essas ferramentas permitem a criação de um dashboard interativo, leve e rápido, ideal para acompanhamento operacional diário.
 
 ⚙️ Como executar o projeto
+
 1️⃣ Clonar o repositório
 git clone https://github.com/seu-usuario/dashboard-operacional-secad.git
 
